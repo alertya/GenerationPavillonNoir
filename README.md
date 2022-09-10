@@ -13,7 +13,7 @@ Une fiche de personnage exemple est disponible dans ce dossier afin de vous expl
 
 /!\ Ce programme de création de personnage s'appuie sur la méthodologie décrite dans la version 1 de Pavillon Noir commercialisé par Black Book Editions
 
-Si jamais tu as rencontré des problèmes ou des questions n'hésites pas à le reporter dans la section Issue ou bien à me contacter à l'adresse mail alertya@yahoo.fr
+Si jamais tu as rencontré des problèmes ou des questions n'hésite pas à le reporter dans la section Issue ou bien à me contacter à l'adresse mail alertya@yahoo.fr
 
 Enfin, si ce programme t'as permis d'économiser pas mal de temps sur la création (ou bien le reroll ^O^) des personnages et que tu pense que cela vaut quelques euros, tu peux faire un petit don Paypal sur le lien en dessous.
 

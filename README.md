@@ -6,7 +6,7 @@ que le nom donné à la fiche de perso dans la ligne de commande
 
 Il y'a 6 dossiers disponibles (Canonnier,MaitreEquipage, Capitaine,QuartierMaitre, Maitre Canonnier,Second), ce dossier correspond au poste à bord le plus adapté pour le personnage crée
 
-Vous n'avez plus qu'a vous rendre dans ce dossier et à ouvrir
+Vous n'avez plus qu'à vous rendre dans ce dossier et à ouvrir
 le fichier de personnage
 
 Une fiche de personnage exemple est disponible dans ce dossier afin de vous expliquer comment décripter les fiches de personnages générées par ce programme

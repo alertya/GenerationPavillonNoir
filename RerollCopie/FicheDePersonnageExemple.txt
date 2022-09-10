@@ -1,0 +1,137 @@
+Ceci est un fichier exemple
+
+Il est composé de 3 parties
+La premier est la liste des compétences et leur niveau associé
+La deuxieme concerne l'orrigine sociale et les événements de jeunesse de votre personnage
+La troisieme est l'optimisation de vos caractéristiques de votre personnage en fonction des compétences générés
+
+
+Il est conseillé de lire toutes les indications écrites après le symbole /// afin de bien comprendre la démarche de la création de fiche de personnage
+///Tout d'abord la création de personnage concerne mla création d'un personnage basique, c'est à dire sans ajout/retrait de compétence de base
+///On donne comme exemple un personnage basique, un personnage qui n'est ni noble  ni prêtre et ne pôssède pas d'avantage/faiblesse
+///Ces modifications de compétences peuvent et doivent être pris en compte sur cette fiche de personnage après coup
+
+
+Légende : 
+
+Pr représente le nombre de points que l'on a associé à cette compétence lors du choix de la profession (p40 du livre Pavillon Noir La Révolte V2), il est donc possible de réajuster 
+tous les points Pr sur les compétences liées à la profession à condition de ne pas laisser une compétence au dessus de 3.
+
+X : X indique que la compétence a été augmenté d'un point lors de l'étape d'acquisition de compétences (répartition de 10 points de compétences à la fin).
+Cela signifie que lors du choix d'avantage faiblesse, si on doit retirer des points de compétence c'est sur ces compétences qu'il faut retirer des points
+Et que si lors du choix d'avantage faiblesse, on doit ajouter des points de compétence, alors il n'est pas possible de les attribuer sur ces compétences marquées d'un X.
+
+
+Première partie :
+
+Ballistique 4 Pr 4 
+/// Pr 4 signifie que la compétence Ballistique a été augmenté de 4 points lors du choix de la profession.
+///On rappelle qu'à la création de personnage, on ne peut avoir une compétence au dessus de 3, 
+///on doit donc mettre cette compétence à 3 et la rajouter sur d'autres compétences
+	      
+	      	
+ 
+Cartographie 3 X
+Commerce 0 
+Droit 0 
+Geographie 0 
+Histoire 2 
+ConnSpe1 0 
+ConnSpe2 0 
+Herboristerie 0 
+IngenierieNavale 0 
+Intendance 0 
+Lire 0 
+Medecine 0 
+Religion1 0 
+Religion2 1 
+Sciences 0 
+Tactique 1 X
+Art1 0 
+Art2 0 
+Pointage 2 
+Recharge 1 
+Calfatage 0 
+Charpenterie 0 
+Voilerie 0 
+Cuisine 2 X
+Artisanat1 0 
+Artisanat2 0 
+Chasse 0 
+Chirurgie 0 
+Dressage 1 X
+PremiersSoins 0 
+ConnaissancesNautiques 0 
+ConnaissancesNavires 0 
+ConnaissanceSignalisation 3 Pr 1 
+Hydrographie 2 Pr 2 
+Navigation 2 
+Peche 1 X
+PratiqueNautique 1 
+Timonerie 0 
+Acrobatie 0 
+Athletisme 1 X
+Discretion 0 
+Equitation 1 
+Larcins 0 
+Natation 0 
+Survie 0 
+Vigilance 0 
+Comedie 1 
+Colons1 0 
+Colons2 0 
+Colons3 0 
+Marins1 0 
+Marins2 0 
+Marins3 0 
+Empathie 0 
+Enseignement 1 X
+Etiquette 1 
+Intimidation 0 
+Jeu 0 
+Langue1 0 
+Langue2 0 
+Langue3 0 
+Meneur 1 Pr 1 
+Persuasion 1 
+Politique 0 
+Seduction 1 X
+Arme1 3 Pr 3 
+Arme2 1 Pr 1 
+Arme3 1 X
+Arme4 0 
+Mousquet 0 
+Pistolet 1 X
+Grenade 0 
+Jet1 0 
+Jet2 1 
+Mains 1 
+Escrime 0 
+Esquive 0 
+
+2ème partie :
+
+Marine
+ 
+Mer
+ 
+Amoureuse
+ 
+42 
+
+3ème partie :
+//Le calcul des caractéristqiues doit etre réajusté en fonction des régles fixés dans le livre de base Pavillon Noir V1
+//On doit avoir notamment aucune caractérisique en dessous de 3 et au dessus de 7
+//Pas plus de 2 caractéristiques doivent etre a 8
+//La caractéristique résistance doit etre à 5 minimum
+//Les caractéristiques complémentaires liées à l'origine sociale et à la profession doivent être rajoutées une fois ces réajustements effectués
+
+ADA : 7.422680 
+ADR : 6.030928 
+FOR : 4.639175 
+RES : 1.855670 
+POU : 2.319588 
+EXP : 4.175258 
+ERU : 7.886598 
+CHA : 3.247422 
+PER : 7.422680 

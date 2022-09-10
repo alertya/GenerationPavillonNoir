@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1542294121 source:c:\users\titine\documents\alex\reroll\origine.c
+
+1542306378 source:c:\users\titine\documents\alex\reroll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Origine.h"
+
+1542300814 c:\users\titine\documents\alex\reroll\origine.h
+
+1542294121 source:c:\reroll\origine.c
+
+1542319612 source:c:\reroll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<Windows.h>
+	"Origine.h"
+	"Comp.h"
+
+1542315467 c:\reroll\origine.h
+
+1542316310 c:\reroll\comp.h
+
+1542294121 source:c:\reroll - copie\origine.c
+
+1542480735 source:c:\reroll - copie\main.c
+	"Origine.h"
+	"Comp.h"
+	"Profession.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<Windows.h>
+
+1542444288 c:\reroll - copie\origine.h
+
+1542444832 c:\reroll - copie\comp.h
+
+1542480755 c:\reroll - copie\profession.h
+
+1574268431 source:c:\users\alert\downloads\addcomp\reroll - copie\main.c
+	"Origine.h"
+	"Comp.h"
+	"Profession.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<Windows.h>
+
+1563301162 c:\users\alert\downloads\addcomp\reroll - copie\origine.h
+
+1563380940 c:\users\alert\downloads\addcomp\reroll - copie\comp.h
+
+1563301162 c:\users\alert\downloads\addcomp\reroll - copie\profession.h
+
+1563301162 source:c:\users\alert\downloads\addcomp\reroll - copie\origine.c
+
+1563301162 source:d:\users\user\documents\users\alert\downloads\addcomp\reroll - copie\origine.c
+
+1632768746 source:c:\users\user\downloads\pn2.0-master\addcomp\reroll - copie\main.c
+	"Origine.h"
+	"Comp.h"
+	"Profession.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<Windows.h>
+
+1563301162 c:\users\user\downloads\pn2.0-master\addcomp\reroll - copie\origine.h
+
+1563380940 c:\users\user\downloads\pn2.0-master\addcomp\reroll - copie\comp.h
+
+1563301162 c:\users\user\downloads\pn2.0-master\addcomp\reroll - copie\profession.h
+
+1563301162 source:c:\users\user\downloads\pn2.0-master\addcomp\reroll - copie\origine.c
+
+1563297562 source:c:\users\user\documents\reroll - copie\reroll - copie\origine.c
+
+1563301162 source:c:\users\user\documents\jdr\rerollcopie\origine.c
+
+1661633917 source:c:\users\user\documents\jdr\rerollcopie\main.c
+	"Origine.h"
+	"Comp.h"
+	"Profession.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<Windows.h>
+
+1563301162 c:\users\user\documents\jdr\rerollcopie\origine.h
+
+1661632508 c:\users\user\documents\jdr\rerollcopie\comp.h
+
+1563301162 c:\users\user\documents\jdr\rerollcopie\profession.h
+
+1661633917 source:c:\users\user\documents\jdr\rerollcopie\executable\main.c
+	"Origine.h"
+	"Comp.h"
+	"Profession.h"
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<Windows.h>
+
+1563301162 c:\users\user\documents\jdr\rerollcopie\executable\origine.h
+
+1661632508 c:\users\user\documents\jdr\rerollcopie\executable\comp.h
+
+1563301162 c:\users\user\documents\jdr\rerollcopie\executable\profession.h
+
+1563301162 source:c:\users\user\documents\jdr\rerollcopie\executable\origine.c
+

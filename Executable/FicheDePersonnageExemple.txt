@@ -1,0 +1,123 @@
+Ceci est un fichier exemple
+
+Il est composé de 3 parties
+La premier est la liste des compétences et leur niveau associé
+La deuxieme concerne l'orrigine sociale et les événements de jeunesse de votre personnage
+La troisieme est l'optimisation de vos caractéristiques de votre personnage en fonction des compétences générés
+
+
+Il est conseillé de lire toutes les indications écrites après le symbole /// afin de bien comprendre la démarche de la création de fiche de personnage
+///Tout d'abord la création de personnage concerne mla création d'un personnage basique, c'est à dire sans ajout/retrait de compétence de base
+///On donne comme exemple un personnage basique, un personnage qui n'est ni noble  ni prêtre et ne pôssède pas d'avantage/faiblesse
+///Ces modifications de compétences peuvent et doivent être pris en compte sur cette fiche de personnage après coup
+
+Première partie :
+
+Ballistique 5 ///On rappelle qu'à la création de personnage, on ne peut avoir une compétence au dessus de 3, on doit donc mettre cette compétence à 3 et la rajouter sur deux autres compétences
+	      /// au choix ne possédant pas de croix à coté 
+	      ///Pour rappel, vous ne pouvez augmenter une compétence que d'un seul niveau et sans excéder la valeur 3	
+Cartographie 0
+Commerce 0
+Droit 0
+Geographie 0
+Histoire 1 X   ///Une croix indique qu'a la suite de la création de votre personnage, vous ne pouvez pas augmenter cette compétence par l'ajout d'avantage/faiblesse ou autre procédé
+	       /// Vous pouvez néanmoins la diminuer (par exemple dans la cas d'un ajout d'avantage à votre personnage)
+Conn spe1 1
+Conn spe2 1
+Herboristerie 0
+Ingenierie navale 0
+Intendance 0
+Lire 1
+Medecine 0
+Religion1 2
+Religion2 0
+Sciences 0
+Tactique 0
+Art1 0
+Art2 0
+Pointage 0
+Recharge 0
+Calfatage 0
+Charpenterie 0
+Voilerie 0
+Cuisine 0
+Artisanat1 0
+Artisanat2 3 X
+Chasse 1
+Chirurgie 0
+Dressage 3
+Premiers soins 1
+Connaissances nautiques 0
+Connaissances des navires 0
+Connaissance de la signalisation 1 X
+Hydrographie 0
+Navigation 0
+Peche 2
+Pratique nautique 0
+Timonerie 0
+Acrobatie 1 X
+Athletisme 0
+Discretion 1
+Equitation 1
+Larcins 0
+Natation 2
+Survie 0
+Vigilance 1 X
+Comedie 1 X
+Colons1 0
+Colons2 0
+Colons3 0
+Marins1 0
+Marins2 1
+Marins3 0
+Empathie 2
+Enseignement 1 X
+Etiquette 0
+Intimidation 1
+Jeu 0
+Langue1 0
+Langue2 0
+Langue3 1
+Meneur 1 X
+Persuasion 0
+Politique 0
+Seduction 0
+Arme1 4
+Arme2 0
+Arme3 2
+Arme4 2
+Mousquet 0
+Pistolet 1 X
+Grenade 1
+Jet1 1 X
+Jet2 0
+Mains 0
+Escrime 0
+Esquive 0
+
+
+2ème partie :
+
+Armee
+ 
+Choyee
+ 
+Laborieuse
+ 
+42 
+
+3ème partie :
+//Le calcul des caractéristqiues doit etre réajusté en fonction des régles fixés dans le livre de base Pavillon Noir V1
+//On doit avoir notamment aucune caractérisique en dessous de 3 et au dessus de 7
+//Pas plus de 2 caractéristiques doivent etre a 8
+//La caractéristique résistance doit etre à 5 minimum
+//Les caractéristiques complémentaires liées à l'origine sociale et à la profession doivent être rajoutées une fois ces réajustements effectués
+ADA : 7.500000 /
+ADR : 7.968750 
+FOR : 5.625000 
+RES : 2.343750 
+POU : 2.343750 
+EXP : 4.687500 
+ERU : 3.750000 
+CHA : 5.156250 
+PER : 5.625000 

@@ -13,7 +13,7 @@ Une fiche de personnage exemple est disponible dans ce dossier afin de vous expl
 
 /!\ Ce programme de création de personnage s'appuie sur la méthodologie décrite dans la version 1 de Pavillon Noir commercialisé par Black Book Editions
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YJUVRNN58ND2S)
 <form action="https://www.paypal.com/donate/?hosted_button_id=YJUVRNN58ND2S" method="post" target="_top">
 
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">

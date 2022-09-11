@@ -1,7 +1,9 @@
 Pour lancer le programme vous devez cliquez sur l'executable ToRun
 Une commande s'ouvrira (fichier noir) et vous posera des questions sur 
-la création de votre personnage
+la création de votre personnage.
+
 La liste des professions disponibles des personnages est décrite dans le fichier ListeProfession.txt
+
 Une fois ceci fait, le programme vous affichera le dossier ainsi
 que le nom donné à la fiche de perso dans la ligne de commande
 

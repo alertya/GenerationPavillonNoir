@@ -14,7 +14,7 @@ le fichier de personnage
 
 Une fiche de personnage exemple est disponible dans ce dossier afin de vous expliquer comment décripter les fiches de personnages générées par ce programme
 
-/!\ Ce programme de création de personnage s'appuie sur la méthodologie décrite dans la version 1 de Pavillon Noir commercialisé par Black Book Editions
+/!\ Ce programme de création de personnage s'appuie sur la méthodologie décrite dans la version 1 de Pavillon Noir commercialisée par Black Book Editions
 
 Si jamais tu as rencontré des problèmes ou des questions n'hésite pas à le reporter dans la section Issue ou bien à me contacter à l'adresse mail alertya@yahoo.fr
 

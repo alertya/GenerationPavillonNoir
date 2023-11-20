@@ -7,8 +7,8 @@ La troisieme est l'optimisation de vos caractéristiques de votre personnage en 
 
 
 Il est conseillé de lire toutes les indications écrites après le symbole /// afin de bien comprendre la démarche de la création de fiche de personnage
-///Tout d'abord la création de personnage concerne mla création d'un personnage basique, c'est à dire sans ajout/retrait de compétence de base
-///On donne comme exemple un personnage basique, un personnage qui n'est ni noble  ni prêtre et ne pôssède pas d'avantage/faiblesse
+///Tout d'abord la création de personnage concerne la création d'un personnage basique, c'est à dire sans ajout/retrait de compétence de base
+///On donne comme exemple un personnage basique, un personnage qui n'est ni noble  ni prêtre et ne possède pas d'avantage/faiblesse
 ///Ces modifications de compétences peuvent et doivent être pris en compte sur cette fiche de personnage après coup
 
 
@@ -25,7 +25,7 @@ Et que si lors du choix d'avantage faiblesse, on doit ajouter des points de comp
 Première partie :
 
 Ballistique 4 Pr 4 
-/// Pr 4 signifie que la compétence Ballistique a été augmenté de 4 points lors du choix de la profession.
+/// Pr 4 signifie que la compétence Ballistique a été augmentée de 4 points lors du choix de la profession.
 ///On rappelle qu'à la création de personnage, on ne peut avoir une compétence au dessus de 3, 
 ///on doit donc mettre cette compétence à 3 et la rajouter sur d'autres compétences
 	      
@@ -122,7 +122,6 @@ Amoureuse
 3ème partie :
 //Le calcul des caractéristqiues doit etre réajusté en fonction des régles fixés dans le livre de base Pavillon Noir V1
 //On doit avoir notamment aucune caractérisique en dessous de 3 et au dessus de 7
-//Pas plus de 2 caractéristiques doivent etre a 8
 //La caractéristique résistance doit etre à 5 minimum
 //Les caractéristiques complémentaires liées à l'origine sociale et à la profession doivent être rajoutées une fois ces réajustements effectués
 
